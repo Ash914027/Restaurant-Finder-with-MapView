@@ -2,6 +2,12 @@
 ### 🍽️ Restaurant Finder with MapView  
 📍 **Location-based mobile app to discover nearby restaurants**
 
+![WhatsApp Image 2026-01-21 at 11 34 51 PM](https://github.com/user-attachments/assets/f64acb35-4238-46da-896a-fad45e37738d)
+
+![WhatsApp Image 2026-01-21 at 11 34 51 PM (2)](https://github.com/user-attachments/assets/8cc6fbde-ce11-4cfa-9da9-1d5d1c65ae12)
+
+![WhatsApp Image 2026-01-21 at 11 34 51 PM (1)](https://github.com/user-attachments/assets/30eafc2c-5775-4712-864e-de7e0aa6ce97)
+
 ---
 
 ## 🚀 Project Overview  
