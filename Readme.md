@@ -166,6 +166,14 @@ Go to 👉 [https://location.foursquare.com/developer](https://location.foursqua
 - 5️⃣ Run on Phone Install Expo Go from Play Store
 - Scan QR code
  - App opens instantly 📱
+ - 
+## 📦 APK Download
+
+You can download and install the Android APK directly from the link below:
+
+🔗 **APK Download:**  
+👉 [Download Restaurant Finder APK]()
+
 
 ## 📱 *A clean, modern, and scalable solution for location-based food discovery!* 🍕😋
 ```
